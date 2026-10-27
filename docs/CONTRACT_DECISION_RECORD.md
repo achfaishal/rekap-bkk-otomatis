@@ -1,9 +1,10 @@
 # Contract Decision Record
 
-Status: **PENDING BUSINESS APPROVAL**  
-Prepared: 1 October 2026, Asia/Bangkok
+Status: **ACCEPTED**  
+Prepared: 1 October 2026, Asia/Bangkok  
+Accepted: 27 October 2026, Asia/Bangkok — explicit user approval in Codex chat
 
-Dokumen ini menyediakan satu paket keputusan minimum sebelum schema, authorization, dan mutation persistence production dibangun. Isi di bawah adalah rekomendasi, bukan kontrak LOCKED sampai pengguna menyetujuinya secara eksplisit.
+Dokumen ini mencatat paket keputusan minimum sebelum schema, authorization, dan mutation persistence production dibangun. CDR-001, CDR-002, dan CDR-003 di bawah telah disetujui secara eksplisit oleh pengguna.
 
 ## CDR-001 — Lifecycle dan analytics eligibility
 
@@ -72,4 +73,4 @@ Tambahan guard:
 
 ## Approval
 
-Belum ada approval recorded. Approval harus menyebut menerima paket rekomendasi atau perubahan spesifik untuk CDR-001, CDR-002, dan CDR-003.
+`ACCEPTED` — pengguna menyetujui seluruh paket CDR-001, CDR-002, dan CDR-003 pada 27 Oktober 2026. Open items yang tercantum di atas tetap OPEN dan tidak ikut dianggap disetujui.
